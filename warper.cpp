@@ -5,7 +5,8 @@
  *
  * warper infile.png [outfile.png] 
  *
- * Author: Joanna Lin, 11/28/22, modifed on 12/08/22
+ * Reference code author: Ioannis Karamouzas, 11/28/22
+ * Author: Joanna Lin, modifed on 12/08/22
 
  */
 
